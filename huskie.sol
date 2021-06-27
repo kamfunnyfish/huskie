@@ -414,7 +414,7 @@ contract Ownable is Context {
 
 
 
-contract KishuInu is Context, IERC20, Ownable {
+contract huskie is Context, IERC20, Ownable {
     using SafeMath for uint256;
     using Address for address;
 
